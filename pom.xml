@@ -18,7 +18,7 @@
         <poi.version>3.17</poi.version>
         <poi-ooxml.version>3.17</poi-ooxml.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <spring-core.version>4.3.21.RELEASE</spring-core.version>
+        <spring-core.version>5.3.18</spring-core.version>
     </properties>
 
     <!--jar 依赖-->
