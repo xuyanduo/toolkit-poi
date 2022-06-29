@@ -15,7 +15,7 @@
     <description>用于完成excel 导入导出以及模板文件下载</description>
 
     <properties>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
         <poi-ooxml.version>3.17</poi-ooxml.version>
         <slf4j.version>1.7.25</slf4j.version>
         <spring-core.version>4.3.21.RELEASE</spring-core.version>
